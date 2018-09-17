@@ -1,4 +1,4 @@
-## Compress
+## compress - Archiver
 
 This project is a simple archiver for images (jpg-files). The images can be writed in a single file. Or can be encrypt or decrypt. The program used the [XOR-cipher](https://en.wikipedia.org/wiki/XOR_cipher)
 
