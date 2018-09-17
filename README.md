@@ -10,6 +10,8 @@ This project is a simple archiver for images (jpg-files). The images can be writ
 
 * gcc --- C-compiler
 
+**Note:** You can change the standard C-compiler in the ```Makefile```. You simple changed the variable ```CC``` in the ```Makefile```.  
+
 #### Build the program  
 
 For building the project type in the console:  
